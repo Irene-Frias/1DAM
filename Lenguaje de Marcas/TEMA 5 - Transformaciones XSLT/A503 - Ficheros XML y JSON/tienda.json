@@ -1,0 +1,21 @@
+{
+	"nombre": "La tiendecilla",
+	"telefono": "953 87 12 23",
+	"productos": [
+		{
+			"codigo": "92",
+			"cantidad": 10,
+			"articulo": "Radio-Casette"
+		},
+		{
+			"codigo": "103",
+			"cantidad": 50,
+			"articulo": "Reloj Cocina"
+		},
+		{
+			"codigo": "1312",
+			"cantidad": 3,
+			"articulo": "Sofá"
+		}
+	]
+}

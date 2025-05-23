@@ -1,0 +1,13 @@
+header {
+    color: white;
+    font-size: 20px;
+    font-weight: bold;
+    background-color: rgb(169, 253, 166);
+    text-align: center;
+    padding: 5px 0px 5px 0px;
+}
+
+.negrita {
+    font-weight: bold;
+    font-size: 20px;
+}

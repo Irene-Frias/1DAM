@@ -1,0 +1,2 @@
+## Actividad - Negocios de tu Barrio
+Visualiza el (video)[https://www.youtube.com/watch?v=aB2mK5QKyvY&authuser=2] y nombra 5 negocios de tu barrio basados en la economía circular. Justifica tu respuesta con las 10 R.

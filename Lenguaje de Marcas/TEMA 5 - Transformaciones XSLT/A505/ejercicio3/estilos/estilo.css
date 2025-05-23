@@ -1,0 +1,47 @@
+header {
+    color: blue;
+    font-weight: bold;
+    font-size: 30px;
+    background-color: yellow;
+    text-align: center;
+    padding: 5px 0;
+}
+
+.contenedor {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 20px;
+    padding: 20px;
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+.recuadro,
+.recuadro-azul {
+    font-size: 15px;
+    border: 2px solid grey;
+    padding: 15px;
+    background-color: white;
+    color: gray;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+}
+
+.recuadro-azul {
+    border-color: blue;
+}
+
+h2 {
+    font-size: 24px;
+    margin-bottom: 10px;
+}
+
+.negrita {
+    font-weight: bold;
+    font-size: 16px;
+}
+
+body {
+    background-color: gainsboro;
+    margin: 0;
+    font-family: Arial, sans-serif;
+}

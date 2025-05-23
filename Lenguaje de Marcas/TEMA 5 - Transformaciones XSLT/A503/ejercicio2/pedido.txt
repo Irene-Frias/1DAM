@@ -1,0 +1,38 @@
+
+        {
+            "portatiles": [  
+                {
+                    "peso": "1430",
+                    "ram": "4",
+                    "disco": "500",
+                    "precio": "499"
+                } , 
+                {
+                    "peso": "1830",
+                    "ram": "6",
+                    "disco": "1000",
+                    "precio": "1199"
+                } , 
+                {
+                    "peso": "1250",
+                    "ram": "2",
+                    "disco": "750",
+                    "precio": "699"
+                } 
+            ],
+            "tablets": [  
+                {
+                    "plataforma": "Android",
+                    "memoria": "2",
+                    "tamanio": "6",
+                    "bateria": "LiPo"
+                } , 
+                {
+                    "plataforma": "iOS",
+                    "memoria": "4",
+                    "tamanio": "9",
+                    "bateria": "LiIon"
+                } 
+            ]
+        }
+    

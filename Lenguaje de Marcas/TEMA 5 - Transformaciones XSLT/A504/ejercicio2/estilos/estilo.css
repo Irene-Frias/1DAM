@@ -1,0 +1,34 @@
+header {
+    color: white;
+    font-size: 20px;
+    font-weight: bold;
+    background-color: rgb(169, 253, 166);
+    text-align: center;
+    padding: 5px 0px 5px 0px;
+}
+
+table {
+    font-size: 20px;
+    width: 70%;
+    border-collapse: collapse;
+    text-align: left;
+    margin: 45px auto;
+}
+
+th, td {
+    border: 2px solid black;
+    padding: 8px;
+}
+
+.negrita {
+    font-weight: bold;
+    text-align: center;
+}
+
+.grado-superior {
+    background-color: rgb(235, 138, 138);
+}
+
+.grado-medio {
+    background: rgb(122, 189, 122);
+}
