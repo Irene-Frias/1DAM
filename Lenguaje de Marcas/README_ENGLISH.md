@@ -4,6 +4,82 @@ Most of the exercises in this repository are taken from the programming manual b
 
 To start working it is necessary to have a development site where you can program. In this case I will install the [`Visual Code Studios`](https://code.visualstudio.com/download).
 
+## 📖 Content Structure
+```
+📁 Markup Language
+│
+├── 📁 TOPIC 1 – Basic XML
+│ ├── XML Exercises (review)
+│ ├── Basic XML Exercises
+│ ├── Basic XML Exercises.pdf
+│ └── Basic XML Theory.pdf
+│
+├── 📁 TOPIC 2 – HTML and CSS
+│ ├── 📁 Activities
+│ │ ├── A201
+│ │ ├── A202
+│ │ ├── A203
+│ │ ├── A204
+│ │ ├── A205
+│ │ ├── A206
+│ │ ├── A207
+│ │ └── A208
+│ ├── 📁 Guides
+│ │ ├── G01
+│ │ └── G02
+│ ├── A201 - Basic HTML.pdf
+│ ├── A202 - HTML without CSS.pdf
+│ ├── A203 - Text Formats.pdf
+│ ├── A204 - Lists.pdf
+│ ├── A205 - Links.pdf
+│ ├── A206 - Images.pdf
+│ ├── A207 - Tables.pdf
+│ ├── G01 - Basic Grid.pdf
+│ ├── G02 - Grid Layout.pdf
+│ ├── CSS with Flexbox and Grid Layout.pdf
+│ └── HTML and CSS Manual.pdf
+│
+├── 📁 TOPIC 3 – HTML, CSS, and JavaScript
+│ ├── 📁 Activities
+│ │ ├── A301
+│ │ ├── A302
+│ │ ├── A303
+│ │ ├── A304
+│ │ └── A305/exercise01
+│ ├── 📁 Resources
+│ │ └── freeCodeCamp
+│ ├── A301 - Events.pdf
+│ ├── A302 - Document Object Model (DOM).pdf
+│ ├── A303 - Complete JavaScript.pdf
+│ ├── A304 - JSON.pdf
+│ └── A305 - JSON II.pdf
+│
+├── 📁 TOPIC 4 – DTD and XML Schema Validation
+│ ├── DTD - XML
+│ ├── XML Schema - XML
+│ ├── DTD Theory.pdf
+│ └── XML Schema Theory.pdf
+│
+├── 📁 TOPIC 5 – XSLT Transformations
+│ ├── 📁 Activities
+│ │ ├── A501
+│ │ ├── A502
+│ │ ├── A503
+│ │ ├── A504 - XML ​​Files
+│ ├── A505 - XML ​​Files
+│ ├── A501 - Introduction to XSLT.pdf
+│ ├── A502 - XSLT with Repetitions.pdf
+│ ├── A503 - Repetitions and Conditions.pdf
+│ ├── A504 - Combined Exercises 1.pdf
+│ ├── A505 - Combined Exercises 2.pdf
+│ └── XSLT Theory Transformations.pdf
+│
+├── README.md
+├── README.md (duplicate, possible) revision
+└── README_ENGLISH.md
+```
+
+
 ## 📚 Units
 The topics covered during the course are listed below in each of the following sections.
 ### Unit 1 - Basic Concepts XML

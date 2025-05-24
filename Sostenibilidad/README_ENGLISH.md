@@ -3,6 +3,28 @@ Sustainability activities carried out for the subject of Cross-Platform Applicat
 
 Most of the work in this repository is based on classroom activities, reflections, local research, and real-world application of sustainability concepts. The focus is on understanding sustainability as a practical, social, economic, and environmental responsibility in both local and professional contexts. Multimedia tools and collaborative methods have also been used to communicate and reinforce key ideas.
 
+## 📖 Content Structure
+```
+📁 Sustainability
+│
+├── 📁 TOPIC 1 – Introduction
+│ ├── Initial Assessment
+│ ├── Maps and Reflection II
+│ └── Reflection I
+│
+├── 📁 TOPIC 2 – Sustainable Development and Global Goals / Sustainable Economy
+│ ├── Sustainable Economy.pdf
+│ ├── image.png (possible graphic resource)
+│ └── README.md
+│
+├── 📁 TOPIC 3 – Application of Sustainability in the Environment
+│ ├── Your Business Neighborhood
+│ ├── Company Sustainability Plan
+│ ├── README.md
+│ └── README_ENGLISH.md
+```
+
+
 ## 📚 Units  
 The content of the subject is structured into the following units:
 

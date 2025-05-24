@@ -4,6 +4,87 @@ La ​​mayoría de los ejercicios de este repositorio provienen del manual de 
 
 Para empezar, es necesario contar con un sitio de desarrollo donde se pueda programar. En este caso, instalaré [`Visual Code Studios`](https://code.visualstudio.com/download).
 
+##  📖 Estructura del Contenido
+```
+📁 Lenguaje de Marcas
+│
+├── 📁 TEMA 1 – XML Básico
+│ ├── Ejercicios de XML (repaso)
+│ ├── Ejercicios de XML Básico
+│ ├── Ejercicios de XML Básico.pdf
+│ └── Teoría XML Básico.pdf
+│
+├── 📁 TEMA 2 – HTML y CSS
+│ ├── 📁 Actividades
+│ │ ├── A201
+│ │ ├── A202
+│ │ ├── A203
+│ │ ├── A204
+│ │ ├── A205
+│ │ ├── A206
+│ │ ├── A207
+│ │ └── A208
+│ ├── 📁 Guías
+│ │ ├── G01
+│ │ └── G02
+│ ├── A201 - HTML Básico.pdf
+│ ├── A202 - HTML sin CSS.pdf
+│ ├── A203 - Formatos de texto.pdf
+│ ├── A204 - Listas.pdf
+│ ├── A205 - Enlaces.pdf
+│ ├── A206 - Imágenes.pdf
+│ ├── A207 - Tablas.pdf
+│ ├── G01 - Grid Básico.pdf
+│ ├── G02 - Grid Maquetación.pdf
+│ ├── CSS con Flexbox y Grid Layout.pdf
+│ └── Manual HTML y CSS.pdf
+│
+├── 📁 TEMA 3 – HTML, CSS y JavaScript
+│ ├── 📁 Actividades
+│ │ ├── A301
+│ │ ├── A302
+│ │ ├── A303
+│ │ ├── A304
+│ │ └── A305/ejercicio01
+│ ├── 📁 Recursos
+│ │ └── freeCodeCamp
+│ ├── A301 - Eventos.pdf
+│ ├── A302 - Document Object Model (DOM).pdf
+│ ├── A303 - JavaScript Completo.pdf
+│ ├── A304 - JSON.pdf
+│ └── A305 - JSON II.pdf
+│
+├── 📁 TEMA 4 – Validación DTD y XML Schema
+│ ├── DTD - XML
+│ ├── XML Schema - XML
+│ ├── Teoría DTD.pdf
+│ └── Teoría XML Schema.pdf
+│
+├── 📁 TEMA 5 – Transformaciones XSLT
+│ ├── 📁 Actividades
+│ │ ├── A501
+│ │ ├── A502
+│ │ ├── A503
+│ │ ├── A504
+│ │ └── A505
+│ ├── A501 - Ficheros XML - JSON
+│ ├── A502 - Ficheros XML
+│ ├── A503 - Ficheros XML y JSON
+│ ├── A504 - Ficheros XML
+│ ├── A505 - Ficheros XML
+│ ├── A501 - Introducción a XSLT.pdf
+│ ├── A502 - XSLT con Repeticiones.pdf
+│ ├── A503 - Repeticiones y Condiciones.pdf
+│ ├── A504 - Ejercicios Combinados 1.pdf
+│ ├── A505 - Ejercicios Combinados 2.pdf
+│ └── Teoría XSLT Transformaciones.pdf
+│
+├── README.md
+├── README.md (duplicado, posible revisión)
+└── README_ENGLISH.md
+```
+
+
 ## 📚 Unidades
 Los temas tratados durante el curso se enumeran a continuación en cada una de las siguientes secciones.
 ### Unidad 1 - Conceptos básicos de XML

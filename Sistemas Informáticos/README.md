@@ -3,6 +3,60 @@ Ejercicios de Sistemas Informáticos realizados para la asignatura de Desarrollo
 
 Para comenzar a trabajar con configuraciones de sistemas y prácticas de red, utilizaremos entornos como [`VirtualBox`](https://www.virtualbox.org/) y otros.
 
+## 📖 Estructura del Contenido
+```
+📁 Sistemas Informáticos
+│
+├── 📁 TEMA 1 – Introducción
+│ ├── Prevención de Riesgos Laborales
+│ ├── Sistemas Informáticos
+│ └── desktop.ini (archivo del sistema, puede eliminarse o ignorarse)
+│
+├── 📁 TEMA 2 – Sistemas Operativos y Virtualización
+│ ├── Clonación disco a disco.pdf
+│ ├── Clonación y Restauración Máquina Dual.pdf
+│ ├── Ejercicios Sistemas Operativos y Virtualización.pdf
+│ ├── Instalación Máquina Dual.pdf
+│ ├── Resumen - Sistemas Operativos y Virtualización.pdf
+│ ├── Sistemas Operativos en Tiempo Real Embebidos.pdf
+│ ├── Teoría - Sistemas Operativos y Virtualización.pdf
+│ └── desktop.ini (puede eliminarse)
+│
+├── 📁 TEMA 3 – Redes
+│ ├── Actividades Componentes.pdf
+│ ├── Actividades sobre las Redes.pdf
+│ ├── PoE (Power over Ethernet).pdf
+│ ├── Resumen - Redes.pdf
+│ ├── Teoría - Componentes de las Topologías.pdf
+│ ├── Teoría - Direccionamiento IP.pdf
+│ ├── Teoría - Introducción a las Redes.pdf
+│ ├── Teoría - La Evolución del WiFi.pdf
+│ └── desktop.ini (puede eliminarse)
+│
+├── 📁 TEMA 4 – Windows
+│ ├── Copia y Restauración de Seguridad W10.pdf
+│ ├── Directivas de Grupo.pdf
+│ ├── Teoría - Gestión de Sistemas Windows.pdf
+│ ├── Unidades RAID.pdf
+│ ├── Volumen Distribuido y Seleccionado en Windows 10.pdf
+│ └── Windows 11. Características, Versiones y Requisitos.pdf
+│
+├── 📁 TEMA 5 – Linux
+│ ├── Comandos Bash.pdf
+│ ├── Permisos Linux.pdf
+│ ├── Resumen - Administración de Sistemas de Linux.pdf
+│ ├── Sistema de archivos.pdf
+│ ├── Teoría - Administración de Sistemas de Linux.pdf
+│ └── Usuarios y Grupos de Linux.pdf
+│
+├── 📁 TEMA 6 – Aplicaciones
+│
+├── README.md
+└── README_ENGLISH.md
+```
+
+
+
 ## 📚 Unidades
 El contenido de la asignatura se estructura en las siguientes unidades:
 

@@ -3,6 +3,59 @@ Computer-Systems exercises carried out for the subject of Cross-Platform Applica
 
 To begin working with system configurations and network practices, we will use environments such as [`VirtualBox`](https://www.virtualbox.org/) and others.
 
+## 📖 Content Structure
+```
+📁 Computer Systems
+│
+├── 📁 TOPIC 1 – Introduction
+│ ├── Occupational Risk Prevention
+│ ├── Computer Systems
+│ └── desktop.ini (system file, can be deleted or ignored)
+│
+├── 📁 TOPIC 2 – Operating Systems and Virtualization
+│ ├── Disk-to-Disk Cloning.pdf
+│ ├── Dual Machine Cloning and Restoration.pdf
+│ ├── Operating Systems and Virtualization Exercises.pdf
+│ ├── Dual Machine Installation.pdf
+│ ├── Summary - Operating Systems and Virtualization.pdf
+│ ├── Embedded Real-Time Operating Systems.pdf
+│ ├── Theory - Operating Systems and Virtualization.pdf
+│ └── desktop.ini (can be deleted)
+│
+├── 📁 TOPIC 3 – Networks
+│ ├── Activities Components.pdf
+│ ├── Activities on Networks.pdf
+│ ├── PoE (Power over Ethernet).pdf
+│ ├── Summary - Networks.pdf
+│ ├── Theory - Components of Topologies.pdf
+│ ├── Theory - IP Addressing.pdf
+│ ├── Theory - Introduction to Networks.pdf
+│ ├── Theory - The Evolution of WiFi.pdf
+│ └── desktop.ini (can be deleted)
+│
+├── 📁 TOPIC 4 – Windows
+│ ├── Backup and Restore W10.pdf
+│ ├── Group Policies.pdf
+│ ├── Theory - Windows Systems Management.pdf
+│ ├── RAID Drives.pdf
+│ ├── Spanned and Selected Volumes in Windows 10.pdf
+│ └── Windows 11. Features, Versions, and Requirements.pdf
+│
+├── 📁 TOPIC 5 – Linux
+│ ├── Bash Commands.pdf
+│ ├── Linux Permissions.pdf
+│ ├── Summary - Linux System Administration.pdf
+│ ├── File System.pdf
+│ ├── Theory - Linux System Administration.pdf
+│ └── Linux Users and Groups.pdf
+│
+├── 📁 TOPIC 6 – Applications
+│
+├── README.md
+└── README_ENGLISH.md
+```
+
+
 ## 📚 Units  
 The content of the subject is structured into the following units:
 

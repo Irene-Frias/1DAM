@@ -3,6 +3,55 @@ Este repositorio contiene una colección de ejercicios de bases de datos desarro
 
 Para comenzar a trabajar con estos ejercicios, necesitará un entorno de desarrollo capaz de crear y gestionar bases de datos, escribir consultas, insertar datos y más. Una configuración recomendada incluye la instalación de herramientas como esta [carpeta](https://github.com/Irene-Frias/Database/tree/main/UNIT%203%20-%20Creaci%C3%B3n%20Base%20de%20Datos/Instalaci%C3%B3n%20de%20servicios%20y%20Clientes%20gr%C3%A1ficos) junto con un gestor de bases de datos como MySQL o PostgreSQL.
 
+##  📖 Estructura del Contenido
+```
+📁 Base de Datos
+│
+├── 📁 TEMA 1 – Introducción
+│ ├── Sistemas de Almacenamiento de la Información.pdf
+│ ├── T1 - Los sistemas de almacenamiento de la información.pdf
+│
+├── 📁 TEMA 2 – Entidad-Relación y Relacional
+│ └── T2 - Diseño lógico relacional.pdf
+│
+├── 📁 TEMA 3 – Creación de Base de Datos
+│ ├── Instalación de servicios y clientes gráficos
+│ ├── Relación 1
+│ ├── Relación 2
+│ ├── Relación 3
+│ ├── Relación 5
+│ ├── Relación 6
+│ └── T3 - Diseño físico relacional.pdf
+│
+├── 📁 TEMA 4 – Consultas SQL
+│ ├── Bases de Datos a Utilizar
+│ ├── Consultas Simples
+│ ├── Consultas Complejas
+│ ├── Consultas de Repaso
+│ ├── Vistas
+│ └── T4 - Realización de consultas.pdf
+│
+├── 📁 TEMA 5 – Inserción y Modificación de Datos
+│ ├── Bases de Datos a Utilizar
+│ ├── Modificaciones
+│ └── T5 - Manipulación de datos.pdf
+│
+├── 📁 TEMA 6 – PL/SQL (Programación en Bases de Datos)
+│ ├── Bases de Datos a Utilizar
+│ ├── Relación 1
+│ ├── Relación 2
+│ ├── Relación 3
+│ ├── Relación 4
+│ ├── Relación 5
+│ ├── Relación 6
+│ ├── Relación 7
+│ ├── Repaso
+│ └── T6 - Programación de Bases de Datos.pdf
+│
+├── README.md
+└── README_ENGLISH.md
+```
+
 ## 📚 Unidades
 Los temas que se abordan durante el curso se enumeran a continuación en cada una de las siguientes secciones.
 ### Unidad 1 - Introducción a las Bases de Datos

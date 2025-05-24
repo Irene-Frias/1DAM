@@ -3,6 +3,28 @@ Actividades de sostenibilidad realizadas para el curso de Desarrollo de Aplicaci
 
 La mayor parte del trabajo de este repositorio se basa en actividades de aula, reflexiones, investigación local y la aplicación práctica de conceptos de sostenibilidad. El enfoque se centra en comprender la sostenibilidad como una responsabilidad práctica, social, económica y ambiental, tanto en contextos locales como profesionales. También se han utilizado herramientas multimedia y métodos colaborativos para comunicar y reforzar ideas clave.
 
+## 📖 Estructura del Contenido
+```
+📁 Sostenibilidad
+│
+├── 📁 TEMA 1 – Introducción
+│ ├── Evaluación Inicial
+│ ├── Mapas y Reflexión II
+│ └── Reflexión I
+│
+├── 📁 TEMA 2 – Desarrollo Sostenible y Objetivos Globales / Economía Sostenible
+│ ├── Economía Sostenible.pdf
+│ ├── image.png (posible recurso gráfico)
+│ └── README.md
+│
+├── 📁 TEMA 3 – Aplicación de la Sostenibilidad en el Entorno
+│ ├── Negocios de tu Barrio
+│ ├── Plan de Sostenibilidad de una Empresa
+│ ├── README.md
+│ └── README_ENGLISH.md
+```
+
+
 ## 📚 Unidades
 El contenido de la asignatura se estructura en las siguientes unidades:
 

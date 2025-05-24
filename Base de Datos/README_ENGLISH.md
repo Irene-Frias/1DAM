@@ -3,6 +3,55 @@ This repository contains a collection of database exercises developed as part of
 
 To begin working with these exercises, you'll need a development environment capable of creating and managing databases writing queries, inserting data, and more. A recommended setup includes installing tools like this [folder](https://github.com/Irene-Frias/Database/tree/main/UNIT%203%20-%20Creaci%C3%B3n%20Base%20de%20Datos/Instalaci%C3%B3n%20de%20servicios%20y%20Clientes%20gr%C3%A1ficos) along with a database management system such as MySQL or PostgreSQL.
 
+## 📖 Content Structure
+```
+📁Database
+│
+├── 📁 TOPIC 1 – Introduction
+│ ├── Information Storage Systems.pdf
+│ ├── T1 - Information Storage Systems.pdf
+│
+├── 📁 TOPIC 2 – Entity-Relationship and Relational
+│ └── T2 - Relational Logical Design.pdf
+│
+├── 📁 TOPIC 3 – Database Creation
+│ ├── Installation of services and graphical clients
+│ ├── Relation 1
+│ ├── Relation 2
+│ ├── Relation 3
+│ ├── Relation 5
+│ ├── Relation 6
+│ └── T3 - Relational Physical Design.pdf
+│
+├── 📁 TOPIC 4 – SQL Queries
+│ ├── Databases to Use
+│ ├── Simple Queries
+│ ├── Queries Complex
+│ ├── Review Queries
+│ ├── Views
+│ └── T4 - Creating Queries.pdf
+│
+├── 📁 TOPIC 5 – Inserting and Modifying Data
+│ ├── Databases to Use
+│ ├── Modifications
+│ └── T5 - Data Manipulation.pdf
+│
+├── 📁 TOPIC 6 – PL/SQL (Database Programming)
+├── Databases to Use
+│ ├── Relationship 1
+│ ├── Relationship 2
+│ ├── Relationship 3
+│ ├── Relationship 4
+│ ├── Relationship 5
+│ ├── Relationship 6
+│ ├── Relationship 7
+│ ├── Review
+│ └── T6 - Database Programming.pdf
+│
+├── README.md
+└── README_ENGLISH.md
+```
+
 ## 📚 Units
 The topics covered during the course are listed below in each of the following sections.
 ### Unit 1 - Introduction to Databases

@@ -2,6 +2,33 @@
 Ejercicios de digitalización realizados para la asignatura de Desarrollo de Aplicaciones Multiplataforma en el I.E.S. Belén (Málaga).
 Los ejercicios incluidos en este repositorio se basan en materiales de clase y trabajos guiados, centrándose en la integración de las tecnologías digitales en los entornos productivos actuales. Las referencias se basan en fuentes fiables, incluyendo aplicaciones online, informes del sector y documentación oficial de plataformas de nube e IA.
 
+## 📖 Estructura del Contenido
+```
+📁 Digitalización
+│
+├── 📁 TEMA 1 – Introducción e Integración de IT-OT
+│ ├── Integración de IT - OT
+│ ├── Informe - Integración de la IT-OT.pdf
+│ ├── Integración de la IT-OT.pdf
+│ └── Plan de Transformación Digital - Irene Frías Ramos.pdf
+│
+├── 📁 TEMA 2 – La Computación en la Nube
+│ ├── La nube para una empresa pequeña
+│ ├── Informe - La nube para una empresa pequeña.pdf
+│ └── La nube para una pequeña empresa.pdf
+│
+├── 📁 TEMA 3 – Tecnologías Habilitadoras Digitales
+│ └── Transformación digital de una empresa.pdf
+│
+├── 📁 TEMA 4 – La Inteligencia Artificial
+│ └── Creación de un video con IA
+│
+├── README.md
+├── README.md (posiblemente duplicado)
+└── README_ENGLISH.md
+```
+
+
 ## 📚 Unidades
 Los contenidos del curso se organizan en las siguientes unidades:
 
