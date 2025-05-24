@@ -3,7 +3,7 @@
 - [Asignaturas](#-asignaturas)
 - [Tecnologías utilizadas](#-tecnologías-utilizadas)
 - [Cómo usar este repositorio](#-cómo-usar-este-repositorio)
-- [Desarrollador](#-desarrollador)
+- [Desarrolladora](#-desarrolladora)
 - [Licencia](#-licencia)
 
 ## 📌 Acerca de
@@ -46,11 +46,10 @@ git clone https://github.com/your-username/your-repo.git
 **4.** Ejecute ejercicios y modifíquelos según sea necesario para practicar o como referencia.
 
 ## 📄 Licencia
-Este repositorio está licenciado bajo la siguiente licencia:
-Creative Commons Atribución-NoComercial-SinObraDerivada 4.0 Internacional (CC BY-NC-ND 4.0)
-🔗 (Ver licencia completa) [https://creativecommons.org/licenses/by-nc-nd/4.0/deed.es]
+Este repositorio está licenciado bajo la siguiente licencia de Creative Commons Atribución-NoComercial-SinObraDerivada 4.0 Internacional <br> (CC BY-NC-ND 4.0). [Ver licencia completa](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.es)
 
-Condiciones de uso:
+Condiciones de uso: 
+<br/><br/>
 📚 Solo para fines educativos o personales.
 - Puedes ver, descargar y usar el contenido de este repositorio solo con fines educativos o personales.
 
