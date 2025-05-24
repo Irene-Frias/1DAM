@@ -111,7 +111,7 @@ A diferencia de `DTD`, `Esquema XML` está escrito en `XML`, lo que lo hace más
 `XSLT` funciona aplicando un conjunto de plantillas y reglas a una fuente `XML`, utilizando `XPath` para seleccionar elementos o atributos específicos. El resultado de la transformación suele ser un nuevo documento con una estructura y apariencia adaptadas a un propósito o público específico.
 
 ## 📄 Información del proyecto
-Visite la [Wiki](https://github.com/Irene-Frias/Markup-Language/wiki) del proyecto para obtener más información.
+Visite la [Wiki](https://github.com/Irene-Frias/1DAM/wiki/Inicio-a-Lenguaje-de-Marcas) del proyecto para obtener más información.
 
 ## 👩‍💻 Desarrolladora
 Irene Frías Ramos

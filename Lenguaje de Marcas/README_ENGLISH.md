@@ -106,7 +106,7 @@ Unlike `DTD`, `XML Schema` is written in `XML` itself, making it more extensible
 `XSLT` works by applying a set of templates and rules to an `XML` source, using `XPath` to select specific elements or attributes. The result of the transformation is usually a new document with a structure and appearance tailored to a specific purpose or audience.
 
 ## 📄 Project information
-Visit the project [Wiki](https://github.com/Irene-Frias/Markup-Language/wiki) for more information.
+Visit the project [Wiki](https://github.com/Irene-Frias/1DAM/wiki/Inicio-a-Lenguaje-de-Marcas) for more information.
 
 ## 👩‍💻 Developer
 Irene Frias Ramos

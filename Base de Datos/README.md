@@ -73,7 +73,7 @@ Los temas que se abordan durante el curso se enumeran a continuación en cada un
 - *PL-SQL (lenguaje procedimental para SQL)* amplía SQL con capacidades procedimentales, lo que permite a los desarrolladores escribir scripts complejos, procedimientos almacenados, funciones y disparadores dentro de una base de datos. Esta unidad abarca la sintaxis PL/SQL, las estructuras de control, la gestión de excepciones y la optimización de rutinas almacenadas para mejorar el rendimiento y la seguridad.
 
 ## 📄 Información del proyecto
-Visita el proyecto [Wiki](https://github.com/Irene-Frias/1DAM-Cross-Platform-Application-Development/wiki/Inicio-a-Base-de-Datos) para más información.
+Visita el proyecto [Wiki](https://github.com/Irene-Frias/1DAM/wiki/Inicio-a-Base-de-Datos) para más información.
 
 ## 👩‍💻 Desarrolladora
 Irene Frías Ramos

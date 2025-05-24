@@ -1,5 +1,3 @@
-# EN PROCESO DE CREACIÓN 
- ---
 ## 📚 Table of Contents
 - [About](#-about)
 - [Subjects](#-subjects)
@@ -11,20 +9,22 @@
 ## 📌 About  
 This repository contains exercises, projects, and resources developed during the **Cross-Platform Application Development** (Grado Superior en Desarrollo de Aplicaciones Multiplataforma - DAM) course at **I.E.S. Belén (Málaga)**.
 
-The aim of this vocational training program is to prepare students for designing, developing, and maintaining applications for different platforms (desktop, mobile, and web) using current programming languages, tools, and methodologies.
+The aim of this vocational training program is to prepare students to design, develop, and maintain applications for various platforms (desktop, mobile, and web), using current programming languages, tools, and methodologies.
 
-Each folder is organized by subject and includes work related to key areas such as programming, databases, systems, web development, digitalization, and sustainability. The projects combine theoretical learning with practical implementation, encouraging autonomy, problem-solving, and collaborative work.
+Each folder is organized by subject and includes content related to key areas such as programming, databases, systems, markup languages, digitalization, and sustainability. Projects integrate theoretical learning with practical application, promoting autonomy, problem-solving, and teamwork.
 
-This repository is part of the learning portfolio and reflects the skills acquired throughout the training process.
+This repository is part of a personal learning portfolio and reflects the skills acquired throughout the first academic year of the training process.
+
 
 ## 📦 Subjects
-- [Programming](https://github.com/Irene-Frias/1DAM-Cross-Platform-Application-Development/tree/main/Java-Programming)
-- [Databases](https://github.com/Irene-Frias/1DAM-Cross-Platform-Application-Development/tree/main/Database)
-- [Computer Systems](https://github.com/Irene-Frias/1DAM-Cross-Platform-Application-Development/tree/main/Computer-Systems)
-- [Web Development (Markup Languages)](https://github.com/Irene-Frias/1DAM-Cross-Platform-Application-Development/tree/main/Markup-Language)
-- [Development Environments](./Development-Environments)
-- [Digitalization](./Digitalization)
-- [Sustainability](./Sustainability)
+- [Programming](https://github.com/Irene-Frias/1DAM/tree/main/Java-Programming)
+- [Databases](https://github.com/Irene-Frias/1DAM/tree/main/Base%20de%20Datos)
+- [Computer Systems](https://github.com/Irene-Frias/1DAM/tree/main/Sistemas%20Inform%C3%A1ticos)
+- [Web Development (Markup Languages)](https://github.com/Irene-Frias/1DAM/tree/main/Lenguaje%20de%20Marcas)
+- [Development Environments](https://github.com/Irene-Frias/1DAM/tree/main/Entornos%20en%20Desarrollo)
+- [Digitalization](https://github.com/Irene-Frias/1DAM/tree/main/Digitalizaci%C3%B3n)
+- [Sustainability](https://github.com/Irene-Frias/1DAM/tree/main/Sostenibilidad)
+
 
 ## 🧰 Technologies Used
 - Visual Studio Code / Apache NetBeans IDE 19  
@@ -66,7 +66,7 @@ Terms of use:
    - If you share this repository or parts of it, you must give appropriate credit, citing the original author: Irene Frías Ramos.
 
 ## 📖 Project information
-Visit the project [Wiki](https://github.com/Irene-Frias/1DAM-Cross-Platform-Application-Development/wiki) for more information.
+Visit the project [Wiki](https://github.com/Irene-Frias/1DAM/wiki) for more information.
 
 ## 👩‍💻 Developer
 Irene Frias Ramos

@@ -1,62 +1,73 @@
-# EN PROCESO DE CREACIÓN 
- ---
-## 📚 Table of Contents
-- [About](#-about)
-- [Subjects](#-subjects)
-- [Technologies Used](#-technologies-used)
-- [How to Use This Repository](#-how-to-use-this-repository)
-- [Developer](#-developer)
-- [License](#-license)
- 
-## 📌 About  
-This repository contains exercises, projects, and resources developed during the **Cross-Platform Application Development** (Grado Superior en Desarrollo de Aplicaciones Multiplataforma - DAM) course at **I.E.S. Belén (Málaga)**.
+## 📚 Índice
+- [Acerca de](#-acerca-de)
+- [Asignaturas](#-asignaturas)
+- [Tecnologías utilizadas](#-tecnologías-utilizadas)
+- [Cómo usar este repositorio](#-cómo-usar-este-repositorio)
+- [Desarrollador](#-desarrollador)
+- [Licencia](#-licencia)
 
-The aim of this vocational training program is to prepare students for designing, developing, and maintaining applications for different platforms (desktop, mobile, and web) using current programming languages, tools, and methodologies.
+## 📌 Acerca de
+Este repositorio contiene ejercicios, proyectos y recursos desarrollados durante el curso **Desarrollo de Aplicaciones Multiplataforma** (Grado Superior en Desarrollo de Aplicaciones Multiplataforma - DAM) del **I.E.S. Belén (Málaga)**.
 
-Each folder is organized by subject and includes work related to key areas such as programming, databases, systems, web development, digitalization, and sustainability. The projects combine theoretical learning with practical implementation, encouraging autonomy, problem-solving, and collaborative work.
+El objetivo de este programa de formación profesional es preparar a los estudiantes para diseñar, desarrollar y mantener aplicaciones para diversas plataformas (de escritorio, móviles y web), utilizando lenguajes, herramientas y metodologías de programación actuales.
 
-This repository is part of the learning portfolio and reflects the skills acquired throughout the training process.
+Cada carpeta está organizada por tema e incluye contenido relacionado con áreas clave como programación, bases de datos, sistemas, lenguajes de marcado, digitalización y sostenibilidad. Los proyectos integran el aprendizaje teórico con la aplicación práctica, fomentando la autonomía, la resolución de problemas y el trabajo en equipo.
 
-## 📦 Subjects
-- [Programming](./Programming)
-- [Databases](https://github.com/Irene-Frias/1DAM-Cross-Platform-Application-Development/tree/main/Database)
-- [Computer Systems](https://github.com/Irene-Frias/1DAM-Cross-Platform-Application-Development/tree/main/Computer-Systems)
-- [Web Development (Markup Languages)](https://github.com/Irene-Frias/1DAM-Cross-Platform-Application-Development/tree/main/Markup-Language)
-- [Development Environments](./Development-Environments)
-- [Digitalization](./Digitalization)
-- [Sustainability](./Sustainability)
+Este repositorio forma parte de un portafolio de aprendizaje personal y refleja las habilidades adquiridas durante el primer año académico del proceso formativo.
 
-## 🧰 Technologies Used
-- Visual Studio Code / Apache NetBeans IDE 19  
+## 📦 Asignaturas
+- [Programación](https://github.com/Irene-Frias/1DAM/tree/main/Java-Programming)
+- [Bases de datos](https://github.com/Irene-Frias/1DAM/tree/main/Base%20de%20Datos)
+- [Sistemas informáticos](https://github.com/Irene-Frias/1DAM/tree/main/Sistemas%20Inform%C3%A1ticos)
+- [Desarrollo web (lenguajes de marcado)](https://github.com/Irene-Frias/1DAM/tree/main/Lenguaje%20de%20Marcas)
+- [Entornos de desarrollo](https://github.com/Irene-Frias/1DAM/tree/main/Entornos%20en%20Desarrollo)
+- [Digitalización](https://github.com/Irene-Frias/1DAM/tree/main/Digitalizaci%C3%B3n)
+- [Sostenibilidad](https://github.com/Irene-Frias/1DAM/tree/main/Sostenibilidad)
+
+## 🧰 Tecnologías utilizadas
+- Visual Studio Code / Apache NetBeans IDE 19
 - Java
 - SQL / MySQL / PL-SQL
 - HTML / CSS / JavaScript
-- XML / JSON
-- Linux & Windows
+- XML ​​/ JSON
+- Linux y Windows
 - VirtualBox
 - Git / GitHub
 
-## 🚀 How to Use This Repository
-**1.** Clone the repository:
-   ```cmd
-   git clone https://github.com/your-username/your-repo.git
-   ```
-**2.** Navigate to the subject folder you want to explore.
+## 🚀 Cómo usar este repositorio
+**1.** Clona el repositorio:
+```cmd
+git clone https://github.com/your-username/your-repo.git
+```
+**2.** Navega a la carpeta que deseas explorar.
 
-**3.** Open project files using your preferred editor, such as Visual Studio Code.
+**3.** Abre los archivos del proyecto con tu editor preferido, como Visual Studio Code.
 
-**4.** Run exercises and modify them as needed for practice or reference.
+**4.** Ejecute ejercicios y modifíquelos según sea necesario para practicar o como referencia.
 
-## 📄 License
-This project is licensed under the MIT License.  
-Feel free to use, modify, and share for educational purposes.
+## 📄 Licencia
+Este repositorio está licenciado bajo la siguiente licencia:
+Creative Commons Atribución-NoComercial-SinObraDerivada 4.0 Internacional (CC BY-NC-ND 4.0)
+🔗 (Ver licencia completa) [https://creativecommons.org/licenses/by-nc-nd/4.0/deed.es]
 
-## 📖 Project information
-Visit the project [Wiki](https://github.com/Irene-Frias/Markup-Language/wiki) for more information.
+Condiciones de uso:
+📚 Solo para fines educativos o personales.
+- Puedes ver, descargar y usar el contenido de este repositorio solo con fines educativos o personales.
 
-## 👩‍💻 Developer
-Irene Frias Ramos
+🚫 No se permite el uso comercial.
+- No puedes vender, redistribuir ni usar esta obra con fines lucrativos, ni integrarla en productos comerciales.
 
-## 📱 Contact with me 
+✏️ No se permiten obras derivadas.
+- No puedes modificar, adaptar ni transformar el contenido para crear nuevos materiales basados ​​en esta obra.
+
+🙋‍♀️ Se requiere atribución. Si comparte este repositorio o partes del mismo, debe dar el crédito correspondiente, citando a la autora original: Irene Frías Ramos.
+
+## 📖 Información del proyecto
+Visite la [wiki](https://github.com/Irene-Frias/1DAM/wiki) del proyecto para más información.
+
+## 👩‍💻 Desarrolladora
+Irene Frías Ramos
+
+## 📱 Contáctame
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/IreneFrías/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:irene15frias@gmail.com)
+[![Correo electrónico](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:irene15frias@gmail.com)
