@@ -48,22 +48,20 @@ This repository is part of a personal learning portfolio and reflects the skills
 **4.** Run exercises and modify them as needed for practice or reference.
 
 ## 📄 License
-This repository is licensed under the following license:
-Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0)
-🔗 (See full license) [https://creativecommons.org/licenses/by-nc-nd/4.0/deed.es]
+This repository is licensed under the Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License (CC BY-NC-ND 4.0). [See full license](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.es)
 
-Terms of use:
+Terms of use: 
+<br/><br/>
 📚 For educational or personal purposes only.
-   - You may view, download, and use the content of this repository for educational or personal purposes only.
+- You may view, download, and use the content of this repository for educational or personal purposes only.
 
 🚫 Commercial use is not permitted.
-   - You may not sell, redistribute, or use this work for profit, or integrate it into commercial products.
+- You may not sell, redistribute, or use this work for profit, or integrate it into commercial products.
 
 ✏️ Derivative works are not permitted.
-   - You may not modify, adapt, or transform the content to create new materials based on this work.
+- You may not modify, adapt, or transform the content to create new materials based on this work.
 
-🙋‍♀️ Attribution required.
-   - If you share this repository or parts of it, you must give appropriate credit, citing the original author: Irene Frías Ramos.
+🙋‍♀️ Attribution is required. If you share this repository or parts of it, you must give appropriate credit, citing the original author: Irene Frías Ramos.
 
 ## 📖 Project information
 Visit the project [Wiki](https://github.com/Irene-Frias/1DAM/wiki) for more information.
